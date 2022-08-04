@@ -24,7 +24,7 @@ void countdown()
     cout << "Terminating in : 4" << endl;
     Sleep(1000);
     cout << "Terminating in : 3" << endl;
-    Sleep(1000);
+    Sleep(1000)
     cout << "Terminating in : 2" << endl;
     Sleep(1000);
     cout << "Terminating in : 1" << endl;
